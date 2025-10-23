@@ -30,9 +30,9 @@ Display the full menu on the home screen.
 
 Show the total number of menu items.
 
-Allow adding of new menu items (temporary storage using state, not permanent storage).
+Allow adding of new menu items.
 
-Use core React Native features:
+core features:
 
 Text inputs and buttons
 
@@ -40,7 +40,6 @@ Layouts and styling
 
 Basic navigation
 
-Simple animation for better UX
 
 **Styling**
 
