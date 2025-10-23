@@ -53,3 +53,7 @@ Cards: #1F2937
 Text: Light grey/white for contrast
 
 Accent: Soft blue for buttons and highlights
+
+
+**Video Link**
+currently not done due to the app not working
