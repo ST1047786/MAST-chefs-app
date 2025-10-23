@@ -2,7 +2,9 @@
 **Dynamic Menu Management App**
 
 **Developer**: Andiswa Dlungele
+
 **student number**: 10477886
+
 **subject**: Mobile App Scripting
 
 📖**Overview**
