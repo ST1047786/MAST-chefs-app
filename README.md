@@ -20,7 +20,7 @@ Dish name
 
 Description
 
-Course (Starter, Main, Dessert
+Course (Starter, Main, Dessert)
 
 **Price**
 
