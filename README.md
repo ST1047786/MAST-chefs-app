@@ -2,8 +2,11 @@
 **Dynamic Menu Management App**
 
 **Developer**: Andiswa Dlungele
-**STudent Number**: ST10477886
+
+**Student Number**: ST10477886
+
 **subject**: Mobile App Scripting
+
 **Course**: Higher certificate in mobile application and web development
 
 📖**Overview**
