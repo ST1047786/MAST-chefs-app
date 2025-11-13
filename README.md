@@ -28,7 +28,7 @@ Practical application of mobile UX principles
 
 Professional-level documentation and design consistency
 
-🌟** Features**
+🌟**Features**
 
 ChefMenu includes all the core functionality required by the project brief:
 
