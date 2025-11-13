@@ -2,43 +2,76 @@
 **Dynamic Menu Management App**
 
 **Developer**: Andiswa Dlungele
-
-**student number**: 10477886
-
+**STudent Number**: ST10477886
 **subject**: Mobile App Scripting
+**Course**: Higher certificate in mobile application and web development
 
 📖**Overview**
 
-ChefMenu is a dynamic menu management app created for Christoffel, a private chef who offers personalised dining experiences.
-The app allows the chef to quickly add, edit, and view menu items for different dining experiences — providing flexibility and efficiency in menu planning.
+ChefMenu is a cross-platform mobile application designed for Chef Christoffel, a private chef who offers unique, personalized dining experiences.
+The app enables the chef to create, update, and manage daily menus easily, giving clients real-time access to the latest culinary offerings.
 
-🎯 **Objectives for Part 2**
+Each evening brings a new dining experience, so flexibility and ease of use were essential. ChefMenu provides a simple yet elegant solution — allowing quick editing, viewing, and organization of dishes right from the chef’s device.
 
-Allow input of menu details:
+🎯 **Project Purpose**
 
-Dish name
+This project was developed as part of the Portfolio of Evidence (Part 2) for the Mobile Application Development module.
+The goal was to design and implement a fully functional user interface using React Native and TypeScript, incorporating interactivity, responsive design, and real-time updates.
 
-Description
+The app showcases:
 
-Course (Starter, Main, Dessert)
+Proficiency in React Native development
 
-**Price**
+Effective use of state management and validation logic
 
-Use a predefined course list to select course types.
+Practical application of mobile UX principles
 
-Display the full menu on the home screen.
+Professional-level documentation and design consistency
 
-Show the total number of menu items.
+🌟** Features**
 
-Allow adding of new menu items.
+ChefMenu includes all the core functionality required by the project brief:
 
-core features:
+👨‍🍳 **Menu Management**
 
-Text inputs and buttons
+Add dishes with name, description, course type, and price.
 
-Layouts and styling
+Choose from predefined courses (Starters, Mains, Desserts, Wine Pairing).
 
-Basic navigation
+Remove items easily when they are no longer part of the menu.
+
+📋 **Real-Time Menu Display**
+
+Displays all dishes dynamically as they are added.
+
+Automatically updates the total number of items available.
+
+Provides a clear, organized view for both chef and clients.
+
+
+📱 **User Flow**
+
+Launch the app → Home screen opens automatically.
+
+Fill in the form to add a new dish.
+
+Select the appropriate course.
+
+Enter price and description.
+
+Press Add Menu Item → dish appears in the menu list.
+
+The total item count updates automatically.
+
+To remove a dish, tap Remove next to the item.
+
+This flow ensures speed, clarity, and efficiency — allowing the chef to focus on cooking rather than admin.
+
+🎬 **Demonstration Video**
+
+Watch a walkthrough of ChefMenu in action, showing how the app functions and handles inputs dynamically.
+
+📺 **YouTube Video Link**: https://youtu.be/-4Fmi6lvGxo
 
 
 **Styling**
@@ -54,5 +87,3 @@ Text: Light grey/white for contrast
 Accent: Soft blue for buttons and highlights
 
 
-**Video Link**
-currently not done due to the app not working
