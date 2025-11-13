@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { View, Text, FlatList, StyleSheet, SafeAreaView, LayoutAnimation, UIManager, Platform } from 'react-native';
 import { MenuItem } from '../types';
 import AddItemForm from '../components/AddItemForm';
