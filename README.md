@@ -89,4 +89,21 @@ Text: Light grey/white for contrast
 
 Accent: Soft blue for buttons and highlights
 
+**Refrences**
+
+youtube 
+
+Programming with Mosh: https://www.youtube.com/watch?v=0kL6nhutjQ8
+
+Academind: https://www.youtube.com/watch?v=0-S5a0eXPoc
+
+website 
+
+W3Schools: https://www.w3schools.com/typescript/
+
+GeeksforGeeks: https://www.geeksforgeeks.org/react-native/
+
+jessel Sookha: https://github.com/jesselsookha
+ 
+
 
